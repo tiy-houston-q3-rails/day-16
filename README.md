@@ -7,7 +7,7 @@ Commands Used Today
 
 Creating Rails Project
 `
-rails new $project_name
+rails new $project_name  
 cd $project_name
 `
 
@@ -23,7 +23,7 @@ to create new tables,
 Homework
 -----------------------------
 
-1. create a Rails repository
+1. create a Rails project
 2. Create a git repository and add all files
 2. Add a model that has students (name)
 3. Add a model that has assignments (day, student, name, status)
