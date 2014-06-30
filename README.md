@@ -6,10 +6,11 @@ Commands Used Today
 ---------------------
 
 Creating Rails Project
-`
+
+```bash
 rails new $project_name  
 cd $project_name
-`
+```
 
 to get into the conole:
 `rails console`
