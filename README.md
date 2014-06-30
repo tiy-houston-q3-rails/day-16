@@ -19,7 +19,7 @@ to run the migrations:
 `rake db:migrate`
 
 to create new tables,
-`rails generate model player name`
+`rails generate model $tablename`
 
 Homework
 -----------------------------
